@@ -45,7 +45,7 @@
  ​ ​echo​ -en ​"​ ██▐█▌  ▐█▄▄▌  ▐█▌·▐█▄▪▐█ ▐███▌ ▐█ ▪▐▌ ██▐█▌\n​" 
  ​ ​echo​ -en ​"​ ▀▀ █▪   ▀▀▀   ▀▀▀  ▀▀▀▀ · ▀▀▀   ▀  ▀  ▀▀ █▪ \n​" 
  ​   
- ​ ​echo​ -en ​$black12$lr1​"​\nBy Yuma-Tsushima​"​ ​$def2 
+ ​ ​echo​ -en ​$black12$lr1​"​\nBy nordbearbot.dev"​ ​$def2 
  ​ ​echo​ -en ​$def2​"​\n​" 
  ​ ​echo​ -en ​$lg1​"​\n[​"​$lr1​"​1​"​$lg1​"​]​"​$w1​"​ SCRIPT ATTACK​" 
  ​ ​echo​ -en ​$lg1​"​\n[​"​$lr1​"​2​"​$lg1​"​]​"​$w1​"​ ALIVE HOST SCAN​" 
