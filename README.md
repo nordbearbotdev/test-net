@@ -5,7 +5,7 @@
 
 ### Disclamer
 
-We are not responsible for any damages done with "NetRunner", use wisely.
+***We are not responsible for any damages done with "NetRunner", use wisely.
 
 # Installation
 
