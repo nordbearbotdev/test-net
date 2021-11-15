@@ -5,7 +5,7 @@
 
 Clone this repo using :
 
-`git clone https://github.com/Yuma-Tsushima07/netscan.git`
+`git clone https://github.com/nordbearbotdev/netRunner`
 
 First use :
 
