@@ -5,11 +5,11 @@
 
 Clone this repo using :
 
-`git clone https://github.com/nordbearbotdev/netRunner`
+* `git clone https://github.com/nordbearbotdev/netRunner`
 
 First use :
 
-`pkg update && pkg upgrade`.
+* `pkg update && pkg upgrade`.
 
 Install nmap using :
 
@@ -17,4 +17,4 @@ Install nmap using :
 
 Finally run the script using :
 
-`bash scan.sh`
+* `bash scan.sh`
